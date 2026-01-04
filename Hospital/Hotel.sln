@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.API", "Hotel.API\Hotel.API.csproj", "{AB9F5A12-0992-4F47-B3E4-142754C519BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.DAL", "Hotel.DAL\Hotel.DAL.csproj", "{43DBC584-4F97-44AC-9E75-CB065D15E75B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.BL", "Hotel.BL\Hotel.BL.csproj", "{811AF3A8-1352-467E-9207-5FE4FCD27645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9F5A12-0992-4F47-B3E4-142754C519BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9F5A12-0992-4F47-B3E4-142754C519BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9F5A12-0992-4F47-B3E4-142754C519BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9F5A12-0992-4F47-B3E4-142754C519BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DBC584-4F97-44AC-9E75-CB065D15E75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DBC584-4F97-44AC-9E75-CB065D15E75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DBC584-4F97-44AC-9E75-CB065D15E75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DBC584-4F97-44AC-9E75-CB065D15E75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811AF3A8-1352-467E-9207-5FE4FCD27645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811AF3A8-1352-467E-9207-5FE4FCD27645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811AF3A8-1352-467E-9207-5FE4FCD27645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811AF3A8-1352-467E-9207-5FE4FCD27645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {107B465F-F606-4D70-B7BA-B97DE7234C29}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\bin\Debug\net8.0\Hotel.BL.deps.json
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\bin\Debug\net8.0\Hotel.BL.dll
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\bin\Debug\net8.0\Hotel.BL.pdb
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\bin\Debug\net8.0\Hotel.DAL.dll
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\bin\Debug\net8.0\Hotel.DAL.pdb
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\Hotel.BL.csproj.AssemblyReference.cache
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\Hotel.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\Hotel.BL.AssemblyInfoInputs.cache
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\Hotel.BL.AssemblyInfo.cs
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\Hotel.BL.csproj.CoreCompileInputs.cache
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\Hotel.BL.csproj.Up2Date
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\Hotel.BL.dll
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\refint\Hotel.BL.dll
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\Hotel.BL.pdb
+C:\Users\sd\Desktop\Mohamed_Elgohary_J0323135\Hotel\Hotel.BL\obj\Debug\net8.0\ref\Hotel.BL.dll

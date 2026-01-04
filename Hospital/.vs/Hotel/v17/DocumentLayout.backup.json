@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\manager\\patientmanager\\patientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\manager\\patientmanager\\patientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|solutionrelative:hotel.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\manager\\patientmanager\\ipatientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\manager\\patientmanager\\ipatientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\patientdto\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\patientdto\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|solutionrelative:hotel.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\manager\\doctormanager\\idoctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\manager\\doctormanager\\idoctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\manager\\doctormanager\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\manager\\doctormanager\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\doctordto\\doctorwritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\doctordto\\doctorwritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\doctordto\\doctorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\doctordto\\doctorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\repos\\doctorrepo\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\repos\\doctorrepo\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\repos\\doctorrepo\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\repos\\doctorrepo\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\patientdto\\patientwritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\patientdto\\patientwritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\patientdto\\patientreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\patientdto\\patientreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\repos\\departmentrepo\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\repos\\departmentrepo\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\repos\\patientrepo\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\repos\\patientrepo\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\medicaldevicedto\\medicaldevicewritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\medicaldevicedto\\medicaldevicewritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\medicaldevicedto\\medicaldevicereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\medicaldevicedto\\medicaldevicereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|solutionrelative:hotel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|solutionrelative:hotel.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\models\\medicaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\models\\medicaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\manager\\departmentmanager\\departmentmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\manager\\departmentmanager\\departmentmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\manager\\departmentmanager\\idepartmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\manager\\departmentmanager\\idepartmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\repos\\departmentrepo\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\repos\\departmentrepo\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\departmentdto\\departmentwritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\departmentdto\\departmentwritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\departmentdto\\departmentreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\departmentdto\\departmentreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.bl\\dtos\\medicaldevicedto\\medicaldeviceupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811AF3A8-1352-467E-9207-5FE4FCD27645}|Hotel.BL\\Hotel.BL.csproj|solutionrelative:hotel.bl\\dtos\\medicaldevicedto\\medicaldeviceupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Migrations\\20260104073804_hms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel.DAL\\Migrations\\20260104073804_hms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB9F5A12-0992-4F47-B3E4-142754C519BE}|Hotel.API\\Hotel.API.csproj|solutionrelative:hotel.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|c:\\users\\sd\\desktop\\mohamed_elgohary_j0323135\\hotel\\hotel.dal\\data\\hmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DBC584-4F97-44AC-9E75-CB065D15E75B}|Hotel.DAL\\Hotel.DAL.csproj|solutionrelative:hotel.dal\\data\\hmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Hotel.API\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Hotel.API\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:58:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDoctorManager.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\DoctorManager\\IDoctorManager.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Manager\\DoctorManager\\IDoctorManager.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\DoctorManager\\IDoctorManager.cs",
+              "RelativeToolTip": "Hotel.BL\\Manager\\DoctorManager\\IDoctorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:36:04.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorManager.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\DoctorManager\\DoctorManager.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Manager\\DoctorManager\\DoctorManager.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\DoctorManager\\DoctorManager.cs",
+              "RelativeToolTip": "Hotel.BL\\Manager\\DoctorManager\\DoctorManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:36:16.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientManager.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\PatientManager\\PatientManager.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Manager\\PatientManager\\PatientManager.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\PatientManager\\PatientManager.cs",
+              "RelativeToolTip": "Hotel.BL\\Manager\\PatientManager\\PatientManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2EAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:36:50.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\PatientDto\\PatientUpdateDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\PatientDto\\PatientUpdateDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\PatientDto\\PatientUpdateDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\PatientDto\\PatientUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:03:57.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPatientManager.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\PatientManager\\IPatientManager.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Manager\\PatientManager\\IPatientManager.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\PatientManager\\IPatientManager.cs",
+              "RelativeToolTip": "Hotel.BL\\Manager\\PatientManager\\IPatientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:36:29.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Hotel.API\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Hotel.API\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:29:40.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorWriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\DoctorDto\\DoctorWriteDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\DoctorDto\\DoctorWriteDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\DoctorDto\\DoctorWriteDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\DoctorDto\\DoctorWriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:02:02.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\DoctorDto\\DoctorReadDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\DoctorDto\\DoctorReadDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\DoctorDto\\DoctorReadDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\DoctorDto\\DoctorReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:01:52.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\DoctorRepo\\IDoctorRepo.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Repos\\DoctorRepo\\IDoctorRepo.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\DoctorRepo\\IDoctorRepo.cs",
+              "RelativeToolTip": "Hotel.DAL\\Repos\\DoctorRepo\\IDoctorRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:40:08.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\DoctorRepo\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Repos\\DoctorRepo\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\DoctorRepo\\DoctorRepo.cs",
+              "RelativeToolTip": "Hotel.DAL\\Repos\\DoctorRepo\\DoctorRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:40:17.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Models\\Doctor.cs",
+              "RelativeToolTip": "Hotel.DAL\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:17:35.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientWriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\PatientDto\\PatientWriteDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\PatientDto\\PatientWriteDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\PatientDto\\PatientWriteDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\PatientDto\\PatientWriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:03:34.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\PatientDto\\PatientReadDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\PatientDto\\PatientReadDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\PatientDto\\PatientReadDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\PatientDto\\PatientReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:03:23.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\DepartmentRepo\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Repos\\DepartmentRepo\\DepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\DepartmentRepo\\DepartmentRepo.cs",
+              "RelativeToolTip": "Hotel.DAL\\Repos\\DepartmentRepo\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:39:49.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\PatientRepo\\IPatientRepo.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Repos\\PatientRepo\\IPatientRepo.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\PatientRepo\\IPatientRepo.cs",
+              "RelativeToolTip": "Hotel.DAL\\Repos\\PatientRepo\\IPatientRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:40:33.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Models\\Patient.cs",
+              "RelativeToolTip": "Hotel.DAL\\Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:18:03.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MedicalDeviceWriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceWriteDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceWriteDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceWriteDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceWriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:02:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicalDeviceReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceReadDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceReadDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceReadDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:02:33.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\Program.cs",
+              "RelativeToolTip": "Hotel.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:36:33.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Hotel.API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Hotel.API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:08:50.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MedicalDevice.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Models\\MedicalDevice.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Models\\MedicalDevice.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Models\\MedicalDevice.cs",
+              "RelativeToolTip": "Hotel.DAL\\Models\\MedicalDevice.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:17:44.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DepartmentManger.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\DepartmentManager\\DepartmentManger.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Manager\\DepartmentManager\\DepartmentManger.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\DepartmentManager\\DepartmentManger.cs",
+              "RelativeToolTip": "Hotel.BL\\Manager\\DepartmentManager\\DepartmentManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:35:31.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDepartmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\DepartmentManager\\IDepartmentManager.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Manager\\DepartmentManager\\IDepartmentManager.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Manager\\DepartmentManager\\IDepartmentManager.cs",
+              "RelativeToolTip": "Hotel.BL\\Manager\\DepartmentManager\\IDepartmentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:35:15.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\DepartmentRepo\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Repos\\DepartmentRepo\\IDepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Repos\\DepartmentRepo\\IDepartmentRepo.cs",
+              "RelativeToolTip": "Hotel.DAL\\Repos\\DepartmentRepo\\IDepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:39:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\DepartmentDto\\DepartmentReadDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\DepartmentDto\\DepartmentReadDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\DepartmentDto\\DepartmentReadDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\DepartmentDto\\DepartmentReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:01:33.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentWriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\DepartmentDto\\DepartmentWriteDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\DepartmentDto\\DepartmentWriteDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\DepartmentDto\\DepartmentWriteDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\DepartmentDto\\DepartmentWriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:01:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MedicalDeviceUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceUpdateDto.cs",
+              "RelativeDocumentMoniker": "Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceUpdateDto.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceUpdateDto.cs",
+              "RelativeToolTip": "Hotel.BL\\Dtos\\MedicalDeviceDto\\MedicalDeviceUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:03:09.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Hotel.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:17:52.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260104073804_hms.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Migrations\\20260104073804_hms.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Migrations\\20260104073804_hms.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Migrations\\20260104073804_hms.cs",
+              "RelativeToolTip": "Hotel.DAL\\Migrations\\20260104073804_hms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:38:04.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Hotel.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.API\\appsettings.json",
+              "RelativeToolTip": "Hotel.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T07:33:21.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Data\\HMSContext.cs",
+              "RelativeDocumentMoniker": "Hotel.DAL\\Data\\HMSContext.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Mohamed_Elgohary_J0323135\\Hotel\\Hotel.DAL\\Data\\HMSContext.cs",
+              "RelativeToolTip": "Hotel.DAL\\Data\\HMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:30:52.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
